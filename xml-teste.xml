@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pedido>
+  <cliente>
+    <nome>Deliza</nome>
+    <email>deliza@gmail.com</email>
+    <celular />
+  </cliente>
+  <items>
+    <item>
+      <codigo>7890066491284</codigo>
+      <descricao>Notebook Dell Inspiron  15R</descricao>
+      <un>UN</un>
+      <qtde>1</qtde>
+      <vlr_unit>2500</vlr_unit>
+    </item>
+    <item>
+      <codigo>7896485432224</codigo>
+      <descricao>Mouse Dell</descricao>
+      <un>UN</un>
+      <qtde>1</qtde>
+      <vlr_unit>120</vlr_unit>
+    </item>
+  </items>
+</pedido>
